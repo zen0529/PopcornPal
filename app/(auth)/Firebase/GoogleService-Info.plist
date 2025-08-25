@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCazVJN--qGeAbmQ36XSa4clBDa9qrISe4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>472483007164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arcenal.popcornpal</string>
+	<key>PROJECT_ID</key>
+	<string>popcornpal-be670</string>
+	<key>STORAGE_BUCKET</key>
+	<string>popcornpal-be670.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:472483007164:ios:5d3daa3737c62ec59c9eb9</string>
+</dict>
+</plist>

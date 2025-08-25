@@ -9,9 +9,13 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "googleServicesFile": "./app/(auth)/Firebase/GoogleService-Info.plist",
+      "bundleIdentifier": "com.mycorp.myapp"
     },
     "android": {
+      "googleServicesFile": "./app/(auth)/Firebase/google-services.json",
+      "package": "com.mycorp.myapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +29,16 @@
     },
     "plugins": [
       "expo-router",
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      // [
+      //   "expo-build-properties",
+      //   {
+      //     "ios": {
+      //       "useFrameworks": "static"
+      //     }
+      //   }
+      // ],
       [
         "expo-splash-screen",
         {

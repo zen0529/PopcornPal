@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472483007164",
+    "project_id": "popcornpal-be670",
+    "storage_bucket": "popcornpal-be670.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472483007164:android:86b2ec4b56a31c729c9eb9",
+        "android_client_info": {
+          "package_name": "com.mycorp.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBysSQA85JcB8-HaVEUXUFTBuLiDyA6czw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
